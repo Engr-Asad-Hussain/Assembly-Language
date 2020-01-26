@@ -5,3 +5,6 @@
 
 ### 2. PRINT STRING ON SCREEN
   This program will print any string on the LCD screen. I have printed the 'MPI ASSIGNMENT' on the screen. But you have to make sure the your data lines of the LCD will be connected to P0 port of the 8051 microcontroller, and EN pin on P2.1 and RS pin on P2.0
+
+### 3. TABLE GENERATOR
+  This program is exactly works as above but the only difference is this code is printing a table till '5'. This project is also build on 8051 microcontroller in assembly language. 
